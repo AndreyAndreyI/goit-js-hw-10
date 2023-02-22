@@ -7,7 +7,7 @@ body {
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #349999;
+  background-color: #c7a76a;
   color: #212121;
   line-height: 1.5;
 }
@@ -59,3 +59,4 @@ body {
 .weight {
   font-weight: 700;
 }
+
